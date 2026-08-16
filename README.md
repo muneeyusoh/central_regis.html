@@ -1,2 +1,2 @@
-# central_regis.html
+# central_regis
 central_regis.html
